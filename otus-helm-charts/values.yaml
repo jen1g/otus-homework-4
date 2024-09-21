@@ -1,0 +1,8 @@
+# Default values for TestChart.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+container:
+  image: jen1g/otus-homework-4:v1
+
+replicaCount: 1
